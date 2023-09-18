@@ -1,22 +1,25 @@
 {
-	"movies": [
+	"My favorite Laker Teams": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Roster": "2009-2010 Laker Roster",
+			"Coach": "Phil Jackson",
+			"Star Player": "Kobe Bryant",
+			"Regular Season Record:": "57-25",
+			"Championship Won?": "Yes!"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Roster": "2019-2020 Laker Roster",
+			"Coach": "Frank Vogel",
+			"Star Player": "Lebron James",
+			"Regular Season Record:": "52-19",
+			"Championship Won?": "Yes!"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Roster": "2017-2018 Laker Roster",
+			"Coach": "Luke Walton",
+			"Star Player": "Lonzo Ball",
+			"Regular Season Record:": "35-47",
+			"Championship Won?": "No ;("
 		}
 	]
 }
